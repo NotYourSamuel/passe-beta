@@ -20,6 +20,7 @@ For support, email notyoursamuel@gmail.com or join our Slack channel.
 ## Installation
 
 Put the application folder in a reliable path and run the application! 
+(I'm planning an installer for version 1.1!)
 
 ## Features
 
