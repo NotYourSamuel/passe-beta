@@ -20,3 +20,12 @@ For support, email notyoursamuel@gmail.com or join our Slack channel.
 ## Installation
 
 Put the application folder in a reliable path and run the application! 
+
+## Features
+
+- Password Generating
+- Password Managing
+- Password Encryptor
+- Passsword Strenght Meter
+- Hash Reciever
+- So much more!
