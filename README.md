@@ -30,7 +30,7 @@ For support, email passe.beta@gmail.com.
 ## Installation
 
 Put the application folder in a reliable path and run the application! 
-(I'm planning an installer for version 1.1!)
+(I'm planning an installer for version 2.0.0!)
 
 
 ## Demo
