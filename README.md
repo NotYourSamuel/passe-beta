@@ -30,3 +30,10 @@ Put the application folder in a reliable path and run the application!
 - Passsword Strenght Meter
 - Hash Reciever
 - So much more!
+
+## Demo
+
+![Password Generator](https://i.ibb.co/CKJD6Px/Screenshot-2024-06-13-162519.png)
+
+![Password Strength Meter](https://i.ibb.co/vJ6ww6s/Screenshot-2024-06-13-162719-2.png)
+
