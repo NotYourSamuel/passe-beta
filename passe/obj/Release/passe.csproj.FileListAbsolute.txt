@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\passe\passe\bin\Release\passe.exe.config
+C:\Users\User\source\repos\passe\passe\bin\Release\passe.exe
+C:\Users\User\source\repos\passe\passe\bin\Release\passe.pdb
+C:\Users\User\source\repos\passe\passe\obj\Release\passe.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\passe\passe\obj\Release\passe.crashForm.resources
+C:\Users\User\source\repos\passe\passe\obj\Release\passe.Form1.resources
+C:\Users\User\source\repos\passe\passe\obj\Release\passe.addPasswordForm.resources
+C:\Users\User\source\repos\passe\passe\obj\Release\passe.deletionConfirmation.resources
+C:\Users\User\source\repos\passe\passe\obj\Release\passe.logWindow.resources
+C:\Users\User\source\repos\passe\passe\obj\Release\passe.Properties.Resources.resources
+C:\Users\User\source\repos\passe\passe\obj\Release\passe.csproj.GenerateResource.cache
+C:\Users\User\source\repos\passe\passe\obj\Release\passe.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\passe\passe\obj\Release\passe.exe
+C:\Users\User\source\repos\passe\passe\obj\Release\passe.pdb
