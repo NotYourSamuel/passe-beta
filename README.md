@@ -9,7 +9,7 @@ Are you tired of struggling to remember countless passwords or worried about the
 
 ## Support
 
-For support, email notyoursamuel@gmail.com or join our Slack channel.
+For support, email passe.beta@gmail.com.
 
 
 ## License
