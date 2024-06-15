@@ -30,7 +30,7 @@ For support, email passe.beta@gmail.com.
 ## Installation
 
 Put the application folder in a reliable path and run the application! 
-(I'm planning an installer for version 2.0.0!)
+(I'm planning an UI overhal a later version! There is also a step-by-step tutorial of a hacked account recovery process comming!)
 
 
 ## Demo
